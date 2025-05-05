@@ -11,6 +11,11 @@ PharmEasy is a responsive multi-page frontend website built using HTML, CSS, and
 
 ---
 
+## 🌐 Live Website
+
+🔗 [Click here to visit the live site](https://snehavish595.github.io/Medical-Store/)
+
+
 ## 🌐 Live Pages
 
 - 🏠 **Home** (`index.html`)  
@@ -61,6 +66,14 @@ PharmEasy is a responsive multi-page frontend website built using HTML, CSS, and
 > ⚠️ Note: This is a **static frontend-only** project with no backend or database connected.
 
 ---
+
+## 🖼️ Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 2](screenshots/screenshot2.png)  
+![Screenshot 3](screenshots/screenshot3.png)  
+![Screenshot 4](screenshots/screenshot4.png)
+
 
 ## 🔮 Future Scope
 
